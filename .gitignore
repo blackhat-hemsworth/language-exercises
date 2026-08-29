@@ -1,0 +1,14 @@
+# Haskell build output
+dist-newstyle/
+.stack-work/
+*.hi
+*.o
+
+# nix / direnv
+.direnv/
+
+# editor
+*~
+
+# haskell-mooc
+score.json

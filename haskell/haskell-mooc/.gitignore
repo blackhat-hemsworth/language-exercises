@@ -1,0 +1,5 @@
+*~
+*.lock
+.stack-work
+.direnv
+score.json
