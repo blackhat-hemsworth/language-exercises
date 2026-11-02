@@ -31,8 +31,8 @@
           [
             # Haskell Tooling
             haskellPackages.ghc
-            haskellPackages.cabal-install
             haskellPackages.haskell-language-server
+            pkgs.cabal-install
             pkgs.stack
 
             # System Build Tools
